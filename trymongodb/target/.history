@@ -1,0 +1,9 @@
+compile
+run
+run play
+play
+run
+clean
+compile
+run
+compile

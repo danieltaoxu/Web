@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trymongodb.iml" filepath="$PROJECT_DIR$/.idea/modules/trymongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trymongodb-build.iml" filepath="$PROJECT_DIR$/.idea/modules/trymongodb-build.iml" />
+    </modules>
+  </component>
+</project>
